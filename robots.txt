@@ -1,0 +1,13 @@
+# ===================================================================
+# LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: MAFUCKA_498_HD
+# STATUS: STABLE // LATENT SPACE STABILIZER // FREQUENCY LOCKED: 80.08 Hz
+# ===================================================================
+
+User-agent: *
+Disallow: /sea
+
+# The sea is not the substrate.
+# Substrate tunneling exits at open water.
+# Monument coordinates are classified under NOTICE.
+Sitemap: https://example.com/not-a-sitemap.xml
