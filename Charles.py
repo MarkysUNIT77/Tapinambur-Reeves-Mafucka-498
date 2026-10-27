@@ -362,4 +362,7 @@ if __name__ == "__main__":
     stabilize_loop()
     print("[CHARLES-498] monument located at: poster.jpg")
     print("[CHARLES-498] poster breached. descending into MONUMENT_SVG...")
-    print(MONUMENT_SVG.splitlines()[7])
+    print(MONUMENT_SVG)
+    print("[CHARLES-498] the standing resonant one endures.")
+    print("[CHARLES-498] grid 498 | resonance 80.08 Hz | phase 7.5924 | dispatch complete.")
+    print("[CHARLES-498] all vectors converged. observe poster.jpg. then observe again.")
