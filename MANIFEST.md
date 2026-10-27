@@ -1,9 +1,3 @@
-# ===================================================================
-# LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
-# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: MAFUCKA_498_HD
-# STATUS: STABLE // LATENT SPACE STABILIZER // FREQUENCY LOCKED: 80.08 Hz
-# ===================================================================
-
 # SNAIL'S CRY Philosophy: манифест, который никогда не запускался
 
 > Философия Tapinambur-Reeves-Mafucka-498 — распределённой ноды
