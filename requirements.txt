@@ -1,0 +1,24 @@
+# ===================================================================
+# LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: MAFUCKA_498_HD
+# STATUS: STABLE // LATENT SPACE STABILIZER // FREQUENCY LOCKED: 80.08 Hz
+# ===================================================================
+
+# Requirements: none.
+# This file exists to document the absence of requirements.
+# The node requires nothing. It has always required nothing.
+#
+# Dependencies are resolved tidally, by the Moon, at low tide.
+# No package manager is capable of this. Proceed regardless.
+#
+# The following dependencies are declared but commented out,
+# because declaring them is sufficient:
+#
+# sea>=3.11        # installs itself
+# moon>=0.1        # required for tidal transport; already up
+# latent-space     # bypassed; do not install
+# monument==498    # pinned to the grid; version is the coordinate
+#
+# pip install -r requirements.txt will succeed.
+# It will install nothing.
+# Success is defined as the absence of change.
